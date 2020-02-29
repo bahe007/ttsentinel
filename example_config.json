@@ -1,0 +1,21 @@
+{
+    "intervall": 10,
+    "timeout": 5.0,
+    "email": {
+        "sender": "sender@gmail.com",
+        "password": "password",
+        "server": "smtp.gmail.com",
+        "port": 587
+    },
+    "offline": [],
+    "sites": [
+        {
+            "url": "https://google.com",
+            "email": "receiver@gmail.com"
+        },
+        {
+            "url": "https://microsoft.com",
+            "email": "receiver@gmail.com"
+        }
+    ]
+}
