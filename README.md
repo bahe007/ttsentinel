@@ -8,4 +8,4 @@
  - interval to wait between website checks
  - email server
  
- Find further explainations on [dev.to](https://dev.to/bahe007/is-your-website-really-online). 
+ Find further explainations on [dev.to](https://dev.to/bahe007/is-your-website-really-online-4j4b). 
